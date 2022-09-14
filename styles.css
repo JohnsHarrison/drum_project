@@ -1,0 +1,90 @@
+.drums{
+    display:flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.bass_drum{
+    height: 168px;
+    width: 190px;
+    background: blue;
+    position: absolute;
+    left: 588px;
+    top: 498px;
+    border-radius: 94px;
+}
+
+.snare{
+    height: 51px;
+    width: 112px;
+    background: blue;
+    position: absolute;
+    left: 739px;
+    top: 423px;
+    border-radius: 94px;
+}
+
+.tom_1{
+    height: 93px;
+    width: 130px;
+    background: blue;
+    position: absolute;
+    left: 681px;
+    top: 330px;
+    border-radius: 42px;
+    transform: rotate(336deg);
+}
+
+.tom_2{
+    height: 106px;
+    width: 123px;
+    background: blue;
+    position: absolute;
+    left: 552px;
+    top: 326px;
+    border-radius: 30px;
+    transform: rotate(376deg);
+}
+
+
+.floor_tom{
+    height: 122px;
+    width: 130px;
+    background: yellow;
+    position: absolute;
+    left: 506px;
+    top: 407px;
+    border-radius: 27px;
+}
+
+.ride{
+    height: 24px;
+    width: 130px;
+    background: blue;
+    position: absolute;
+    left: 438px;
+    top: 276px;
+    border-radius: 27px;
+    transform: rotate(376deg);
+}
+
+.crash{
+    height: 22px;
+    width: 130px;
+    background: blue;
+    position: absolute;
+    left: 766px;
+    top: 270px;
+    border-radius: 27px;
+    transform: rotate(347deg);
+}
+
+.high_hat{
+    height: 15px;
+    width: 106px;
+    background: blue;
+    position: absolute;
+    left: 817px;
+    top: 330px;
+    border-radius: 27px;
+}
