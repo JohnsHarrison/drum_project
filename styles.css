@@ -9,7 +9,7 @@
     width: 190px;
     background: blue;
     position: absolute;
-    left: 588px;
+    right: 865px;
     top: 498px;
     border-radius: 94px;
 }
@@ -19,7 +19,7 @@
     width: 112px;
     background: blue;
     position: absolute;
-    left: 739px;
+    right: 790px;
     top: 423px;
     border-radius: 94px;
 }
@@ -29,7 +29,7 @@
     width: 130px;
     background: blue;
     position: absolute;
-    left: 681px;
+    right: 831px;
     top: 330px;
     border-radius: 42px;
     transform: rotate(336deg);
@@ -40,7 +40,7 @@
     width: 123px;
     background: blue;
     position: absolute;
-    left: 552px;
+    right: 968px;
     top: 326px;
     border-radius: 30px;
     transform: rotate(376deg);
@@ -52,7 +52,7 @@
     width: 130px;
     background: yellow;
     position: absolute;
-    left: 506px;
+    right: 1010px;
     top: 407px;
     border-radius: 27px;
 }
@@ -62,7 +62,7 @@
     width: 130px;
     background: blue;
     position: absolute;
-    left: 438px;
+    right: 1074px;
     top: 276px;
     border-radius: 27px;
     transform: rotate(376deg);
@@ -73,7 +73,7 @@
     width: 130px;
     background: blue;
     position: absolute;
-    left: 766px;
+    right: 746px;
     top: 270px;
     border-radius: 27px;
     transform: rotate(347deg);
@@ -84,7 +84,7 @@
     width: 106px;
     background: blue;
     position: absolute;
-    left: 817px;
+    right: 720px;
     top: 330px;
     border-radius: 27px;
 }
